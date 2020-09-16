@@ -13,6 +13,7 @@ A simple android app for uploading data into Firebase and fetching data from fir
 - Splashscreen
 - Firebase
 - FirebaseAuth
+- Offlinesync
 
 **Installation**
 
