@@ -18,4 +18,4 @@ A simple android app for uploading data into Firebase and fetching data from fir
 **Installation**
 
 Anyone can use this drive link for the apk installation into yur android device(minsdk version 21).
-- drive link: https://drive.google.com/file/d/12eUIpArtxm9ZZF8ozI1YONo_55p3iRXq/view?usp=sharing
+- drive link: https://drive.google.com/file/d/12UJ06byZ5LL0vAodJUlXuw_v4zWbPHmj/view?usp=sharing
