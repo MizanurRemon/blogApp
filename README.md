@@ -2,7 +2,7 @@
 
 **Description**
 
-A simple android app for uploading data into Firebase and fetching data from firebase with email registration and sign in authentication with email and password.
+A simple android app for uploading data into Firebase and fetching data from firebase showing on recyclerview and picasso with email registration and sign in authentication with email and password.
 
 **Tools**
 
@@ -14,6 +14,7 @@ A simple android app for uploading data into Firebase and fetching data from fir
 - Firebase
 - FirebaseAuth
 - Offlinesync
+- Picasso
 
 **Installation**
 
